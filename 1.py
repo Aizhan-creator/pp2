@@ -6,7 +6,8 @@ if 5<2:
 x=1
 y=0
 print(x)
-'''
+
 print(y)
+'''
 print(z)
 '''
